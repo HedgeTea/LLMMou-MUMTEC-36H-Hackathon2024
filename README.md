@@ -1,5 +1,5 @@
 # Western Digital x MUMTEC-36H-Hackathon 2024-
-# [Team Name] – MUMTEC Hackathon 2024 Submission
+# [LLM Mou?] – MUMTEC Hackathon 2024 Submission
 
 ## Project Title: [Insert Project Name]
 
