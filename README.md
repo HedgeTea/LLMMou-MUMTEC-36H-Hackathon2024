@@ -9,6 +9,7 @@
 3. [Installation and Setup](#installation-and-setup)
 4. [Usage](#usage)
 5. [Features](#features)
+6. [System Architecture](#system-architecture)
 
 ### Project Overview
 We tackle the problem by using a combination of LLMs for code optimization and a machine learning model for prediction
@@ -25,6 +26,11 @@ development by automating complex tasks and enhancing performance.
 
 ---
 
+### Installation and setup
+
+Meant to be a hosted web app. No installation required.
+
+--- 
 ### Technologies Used
 
 - Python 3.7
@@ -33,7 +39,6 @@ development by automating complex tasks and enhancing performance.
 - Figma
 
 --- 
-
 ### Usage
 Input code or datasets and get results
 --- 
@@ -41,6 +46,10 @@ Input code or datasets and get results
 ### Features
 Optimizes code
 Predicts hardware failure and provides derived maintenance schedule
+--- 
+
+### System Architecture
+Web server to host app, linked to database to store user past inputs
 --- 
 
 
