@@ -1,7 +1,7 @@
 # Western Digital x MUMTEC-36H-Hackathon 2024-
 # [LLM Mou?] – MUMTEC Hackathon 2024 Submission
 
-## Project Title: [Insert Project Name]
+## Project Title: Firmboost
 
 ### Table of Contents
 1. [Project Overview](#project-overview)
@@ -9,48 +9,38 @@
 3. [Installation and Setup](#installation-and-setup)
 4. [Usage](#usage)
 5. [Features](#features)
-6. [Architecture](#architecture)
-
-(feel free to add any content or sections)
-
----
 
 ### Project Overview
-[Provide a brief description of your project. Include the problem you are solving, your approach, and the impact of your solution.]
+We tackle the problem by using a combination of LLMs for code optimization and a machine learning model for prediction
 
-- **Problem Statement**: [Briefly describe the problem or challenge your project addresses.]
-- **Proposed Solution**: [Describe your AI-powered solution, highlighting its key features and benefits.]
+- **Problem Statement**:
+- Firmware plays a crucial role in the functioning of hardware devices, providing the low-level
+control required for operation. It also involves time and resources consuming processes. However,
+traditional firmware development often faces challenges related to performance optimization,
+resource management and adaptability to new hardware. Leveraging AI can revolutionise firmware
+development by automating complex tasks and enhancing performance.
+- **Proposed Solution**: 
+- Claude Sonnet 3.5 for optimizing code
+- Temporal Fusion Transformer model for predicting hardware failure
 
 ---
 
 ### Technologies Used
-[List all the technologies, programming languages, frameworks, libraries, and tools used in the project. Include any external APIs or datasets.]
 
 - Python 3.7
-- PyTorch
 - TensorFlow
+- Anthropic Claud Sonnet API
 - Figma
-- React
-
----
-
-### Installation and Setup
-[Describe how to use install and setup your project. ]
 
 --- 
 
 ### Usage
-[Describe how to use your application. Include example commands, expected inputs, and outputs.]
-
+Input code or datasets and get results
 --- 
 
 ### Features
-[Highlight the key features of your project.]
-
+Optimizes code
+Predicts hardware failure and provides derived maintenance schedule
 --- 
 
-### Architecture
-[Provide an explanation of your system architecture.]
-
---- 
 
